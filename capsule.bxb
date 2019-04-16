@@ -1,0 +1,14 @@
+capsule {
+  // Written by Min Cheng
+  // Last update April 16, 2019
+  id (example.array)
+  runtime-flags {
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+  }
+  version (0.1.0)
+  format (3)
+  targets {
+    target (bixby-mobile-en-US)
+  }
+}

@@ -1,0 +1,5 @@
+train (t-6atah1ev529yzv0trcjm3o0vj) {
+  utterance ("[g:ActionGetContactByName] Get me contact on (simon)[v:TypeContactName]")
+  plan (Y2BmkE6tSMwtyEnVSywqSqzUCy4pKk0ucc7PK0lMLmFQQZV0TC7JzM9zT4XJO1X6JeamMsiiqgqpLEiFKgBLMzEwAjEDkGRkAAEoHwA=)
+  last-modified (1555364479586)
+}

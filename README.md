@@ -27,6 +27,7 @@ The purpose of this example is to demostrate how Bixby action and view handles a
       - result.png shows the excution result in Bixby simulator 
       - dataflow.png shows detail how Bixby construt an array of `StructContact` objects and feed to ActionConferenceCall
     - Good luck and have fun with Bixby
+      - Checkout the **answer** branch for full implementation
 
 **Resources**
 
